@@ -282,4 +282,4 @@ export const ChamberTimeline: React.FC<ChamberTimelineProps> = ({
             </div>
         </div>
     );
-};
+}; 
