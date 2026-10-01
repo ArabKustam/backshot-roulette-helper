@@ -49,4 +49,4 @@ export const getBestMove = (live: number, blank: number, players: Player[], curr
             description: `SHOOT ${target.name.toUpperCase()}`
         };
     }
-};
+}; 
