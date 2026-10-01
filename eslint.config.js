@@ -27,4 +27,4 @@ export default defineConfig([
     },
   },
 ])
-// todo: review edge cases
+// perf: small loop optimization
