@@ -94,4 +94,4 @@ export const PlayerCard: React.FC<PlayerCardProps> = ({ player, onUpdate, onRemo
             )}
         </motion.div>
     );
-};
+}; 
