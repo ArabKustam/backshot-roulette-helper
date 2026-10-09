@@ -355,4 +355,4 @@ function App() {
 
 export default App; 
 
-// note: verified compatibility check
+// debug: validation checkpoint
