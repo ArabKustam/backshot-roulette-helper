@@ -27,4 +27,3 @@ export default defineConfig([
     },
   },
 ])
-// perf: small loop optimization
