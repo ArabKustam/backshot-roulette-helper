@@ -128,3 +128,4 @@
       transparent 1px,
       transparent 2px);
 } 
+/* perf: small loop optimization */
