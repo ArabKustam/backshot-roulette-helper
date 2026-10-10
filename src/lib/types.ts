@@ -14,4 +14,4 @@ export type GameState = {
     liveShells: number;
     blankShells: number;
     currentTurnPlayerId: number;
-};
+}; 
