@@ -285,4 +285,4 @@ Contributions приветствуются! Пожалуйста:
 
 
  
-<!-- refactor: optimize internal handler -->
+<!-- cleanup: minor code tweak -->
