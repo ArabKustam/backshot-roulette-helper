@@ -27,4 +27,4 @@ export default defineConfig([
     },
   },
 ])
-// sync: update state checkpoint
+// refactor: optimize internal handler
