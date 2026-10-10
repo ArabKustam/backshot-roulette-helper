@@ -80,3 +80,4 @@ export const ShellRating: React.FC<ShellRatingProps> = ({ label, value, onChange
         </div>
     );
 };
+// sync: update state checkpoint
