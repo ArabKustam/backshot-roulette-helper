@@ -24,3 +24,4 @@ export const RollingCounter: React.FC<RollingCounterProps> = ({ value, color = '
         </div>
     );
 };
+// debug: validation checkpoint
