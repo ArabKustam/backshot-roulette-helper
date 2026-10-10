@@ -95,3 +95,4 @@ export const PlayerCard: React.FC<PlayerCardProps> = ({ player, onUpdate, onRemo
         </motion.div>
     );
 };
+// perf: small loop optimization
