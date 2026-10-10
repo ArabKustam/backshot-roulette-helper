@@ -8,4 +8,4 @@ createRoot(document.getElementById('root')!).render(
         <App />
     </StrictMode>,
 )
-// todo: review edge cases
+// debug: validation checkpoint
