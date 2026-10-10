@@ -6,4 +6,3 @@ export default defineConfig({
   plugins: [react()],
   base: '/backshot-roulette-helper/', // Change this to your GitHub repo name
 })
-// debug: validation checkpoint
