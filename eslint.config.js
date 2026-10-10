@@ -27,4 +27,4 @@ export default defineConfig([
     },
   },
 ])
-// todo: review edge cases
+// sync: update state checkpoint
