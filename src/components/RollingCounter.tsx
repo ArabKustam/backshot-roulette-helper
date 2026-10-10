@@ -24,4 +24,3 @@ export const RollingCounter: React.FC<RollingCounterProps> = ({ value, color = '
         </div>
     );
 };
-// perf: small loop optimization
