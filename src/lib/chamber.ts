@@ -128,3 +128,4 @@ export const initializeChambers = (total: number): ChamberShell[] => {
     }));
 };
  
+// sync: update state checkpoint
