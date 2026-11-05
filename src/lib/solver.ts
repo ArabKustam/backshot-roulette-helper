@@ -50,3 +50,4 @@ export const getBestMove = (live: number, blank: number, players: Player[], curr
         };
     }
 };
+
